@@ -41,7 +41,12 @@ input::-webkit-inner-spin-button {
 .icon{
   cursor: pointer;
 }
-
+.workedfor{
+  margin: 50px auto;
+  text-align: center;
+  font-size: 26px;
+  font-family: system-ui;
+}
 .payment{
   display: flex;
   align-items: center;
